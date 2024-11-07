@@ -1,1 +1,21 @@
-lo que sea
+h1, h2{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 20px;
+}
+#home,#videos{
+    background-color: gray;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+#music{
+    background-color: gray;
+    color: white;
+    border-radius: 20px;
+}
+body{
+    background-color: black;
+    color: white;
+}
